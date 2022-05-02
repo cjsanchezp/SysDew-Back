@@ -1,0 +1,13 @@
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\UPC\2022\DESARROLLO ENTORNO WEB\UNIDAD 2\Semana 2 - Sesión 3 (Presencial)\01. Proyecto\Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
