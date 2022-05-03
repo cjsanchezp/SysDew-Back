@@ -18,7 +18,7 @@ namespace DBContext
             {
                 using (var db = GetSqlConnection())
                 {
-                    const string sql = "usp_InsertarUsuario";
+                    const string sql = "usp_InsertarUuario";
 
                     var p = new DynamicParameters();
                     p.Add(name: "@IDUSUARIO", dbType: DbType.Int32, direction: ParameterDirection.Output);

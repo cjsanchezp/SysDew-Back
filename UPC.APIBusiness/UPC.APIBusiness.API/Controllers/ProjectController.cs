@@ -42,7 +42,7 @@ namespace API
         /// </summary>
         /// <returns></returns>
         [Produces("application/json")]
-        [Authorize]
+        [AllowAnonymous]
         [HttpGet]
         [Route("listar")]
         public ActionResult GetProjects()
@@ -71,11 +71,19 @@ namespace API
         /// <param name="project"></param>
         /// <returns></returns>
         [Produces("application/json")]
-        [AllowAnonymous]
+        [Authorize]
         [HttpPost]
         [Route("insert")]
         public ActionResult Insert(EntityProject project)
         {
+            var identity = User.Identity as ClaimsIdentity;
+            IEnumerable<Claim> claims = identity.Claims;
+
+            var userid = claims.Where(p => p.Type == "client_codigo_usuario").FirstOrDefault()?.Value;
+            var userdni = claims.Where(p => p.Type == "client_numero_documento").FirstOrDefault()?.Value;
+
+            project.UsuarioCrea = int.Parse(userid);
+
             var ret = __ProjectRepository.Insert(project);
             return Json(ret);
         }
